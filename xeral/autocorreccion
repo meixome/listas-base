@@ -1,3 +1,555 @@
-erros frecuentes non ortográficos, interferencias cast-gal
+#erros frecuentes non ortográficos, interferencias cast-gal
+#incorrecta → correcta
 
-incorrecta → correcta
+REP 551			# Modifíquese en caso de ampliarse ou reducirse a lista.
+REP abag avag		# abagar → avagar.
+REP abág avág 		# abagar → avagar.
+REP aballo avello	# aballoar → avelloar.
+REP aballó avelló	# aballoar → avelloar.
+REP accesar acceder	# accesar → acceder (o feito de que sexan conxugacións distintas é un problema).
+REP acobard acovard	# acobardar → acovardar.
+REP acobárd acovárd	# acobardar → acovardar.
+REP afosc afusc		# afoscar → afuscar.
+REP afósc afúsc		# afoscar → afuscar.
+REP aig ai
+REP áig ái
+REP alambr aram 	# alambrar → aramar.
+REP alámbr arám 	# alambrar → aramar.
+REP andamio estada	# Erro común.
+REP andén plataforma	# Erro común.
+REP anicr anic 		# anicrar → anicar.
+REP anícr aníc 		# anicrar → anicar.
+REP antefaz anteface	# Erro común.
+REP antifaz anteface	# Erro común.
+REP antox antoll 	# antoxar → antollar.
+REP antóx antóll 	# antoxar → antollar.
+REP aparcel parcel 	# aparcelar → parcelar.
+REP aparcél parcél 	# aparcelar → parcelar.
+REP aportación achega	# Erro moi común.
+REP apret apert 	# apretar → apertar.
+REP aprét apért 	# apretar → apertar.
+REP aprom achumb 	# apromar → achumbar.
+REP apróm achúmb 	# apromar → achumbar.
+REP arregal regal 	# arregalar → regalar.
+REP arregál regál 	# arregalar → regalar.
+REP arreigo arraigo	# Erro común.
+REP arrincon acanto 	# arrinconar → acantoar.
+REP arrincón acantó 	# arrinconar → acantoar.
+REP arrous rous 	# arrousar → rousar.
+REP arróus róus 	# arrousar → rousar.
+REP arrumb arromb 	# arrumbar → arrombar.
+REP arrúmb arrómb 	# arrumbar → arrombar.
+REP asopr sopr 		# asoprar → soprar.
+REP asópr sópr 		# asoprar → soprar.
+REP asoseg soseg 	# asosegar → sosegar.
+REP asoség soség	# asosegar → sosegar.
+REP atal ental 		# atalar → entalar.
+REP atál entál		# atalar → entalar.
+REP atarrax tarrax 	# atarraxar → tarraxar.
+REP atarráx tárrax 	# atarraxar → tarraxar.
+REP atemper temper 	# atemperar → temperar.
+REP atempér tempér 	# atemperar → temperar.
+REP atent tent 		# atentar → tentar.
+REP atént tént 		# atentar → tentar.
+REP atoll atroll 	# atollar → atrollar.
+REP atóll atróll 	# atollar → atrollar.
+REP atu ato 		# atuar → atoar.
+REP atú ato 		# atuar → atoar.
+REP atú ató 		# atuar → atoar.
+REP aturdi atorda	# aturdir → atordar..
+REP atúrdi atórda	# aturdir → atordar.
+REP aturde atorda	# aturdir → atordar.
+REP atúrde atórda	# aturdir → atordar.
+REP aturda atorde	# aturdir → atordar.
+REP atúrda atórde	# aturdir → atordar.
+REP azaball azafall 	# azaballar → azafallar.
+REP azabáll azafáll 	# azaballar → azafallar.
+REP azarapall zarapall 	# azarapallar → zarapallar.
+REP azarapáll zarapáll 	# azarapallar → zarapallar.
+REP badexo abadexo	# Erro común.
+REP barr varr 		# barrer → varrer.
+REP bárr várr 		# barrer → varrer.
+REP bog vog 		# bogar → vogar.
+REP bóg vóg 		# bogar → vogar.
+REP broa boroa		# Erro común.
+REP broc envorc 	# brocar → envorcar.
+REP bróc envórc 	# brocar → envorcar.
+REP buce mergull 	# bucear → mergullarse.
+REP bucé mergúll 	# bucear → mergullarse.
+REP bucear mergullarse 	# bucear → mergullarse.
+REP bull debull 	# bullar → debullar.
+REP búll debúll 	# bullar → debullar.
+REP bursátil bolsista	# Erro común.
+REP caí cae 		# caír → caer.
+REP caí caé 		# caír → caer.
+REP cai cae 		# caír → caer.
+REP caladeiro caladoiro	# Erro común.
+REP calamar lura	# calamar → lura.
+REP calamares luras	# calamar → lura.
+REP calaveira caveira	# Erro común.
+REP calific cualific 	# calificar → cualificar.
+REP califíc cualifíc 	# calificar → cualificar.
+REP cañ can 		# cañonear → canonear.
+REP carbunco carbuncho	# Erro común.
+REP carbunco carafuncho	# Erro común.
+REP carbunco nacida	# Erro común.
+REP carcoma caruncho	# Erro común.
+REP carcoma couza	# Erro común.
+REP cc c		# Exemplo: construcción → construción.
+REP champú xampú	# Erro común.
+REP champurr chapuz	# champurrar → chapuzar.
+REP champúrr chapúz	# champurrar → chapuzar.
+REP cerrollo ferrollo	# Erro común.
+REP ci ce 		# ciar → cear.
+REP cí ce 		# ciar → cear.
+REP cí cé 		# ciar → cear.
+REP ci z		# Exemplo: espaciar → espazar.
+REP coall call 		# coallar → callar.
+REP coáll cáll 		# coallar → callar.
+REP coiñ cuiñ 		# coiñar → cuiñar.
+REP coíñ cuíñ 		# coiñar → cuiñar.
+REP coinc cuinc 	# coincar → cuincar.
+REP coínc cuínc 	# coincar → cuincar.
+REP comulg comung 	# comulgar → comungar.
+REP comúlg comúng 	# comulgar → comungar.
+REP conceb concib 	# concebir → concibir.
+REP conquere conquista	# conquerer → conquistar.
+REP conquére conquísta	# conquerer → conquistar.
+REP conquer conquist	# conquerer → conquistar.
+REP conquér conquíst	# conquerer → conquistar.
+REP conquera conquiste	# conquerer → conquistar.
+REP conquéra conquíste 	# conquerer → conquistar.
+REP conquería conquistaba	# conquerer → conquistar.
+REP conqueria conquistaba	# conquerer → conquistar.
+REP conquerín conquistei	# conquerer → conquistar.
+REP conquerín conquistéi	# conquerer → conquistar.
+REP conquerín conquistein	# conquerer → conquistar.
+REP conqueriu conquistou	# conquerer → conquistar.
+REP conqueríu conquistóu	# conquerer → conquistar.
+REP cost cust 		# costar → custar.
+REP cóst cúst 		# costar → custar.
+REP ct t		# Exemplo: conflicto → conflito.
+REP cuall call 		# cuallar → callar.
+REP cuáll cáll 		# cuallar → callar.
+REP cuall coall 	# cuallar → coallar.
+REP cuáll coáll 	# cuallar → coallar.
+REP customiz personaliz # customizar → personalizar.
+REP customic personalic	# customizar → personalizar.
+REP deb dev 		# debecer → devecer
+REP deborc debroc 	# deborcar → debrocar.
+REP debórc debróc 	# deborcar → debrocar.
+REP debouc demouc 	# deboucar → demoucar.
+REP debóuc demóuc 	# deboucar → demoucar.
+REP dec dic 		# decir → dicir.
+REP decomis comis 	# decomisar → comisar.
+REP decomís comís 	# decomisar → comisar.
+REP demit dimit 	# demitir → dimitir.
+REP derrab desrab 	# derrabar → desrabar.
+REP derráb desráb 	# derrabar → desrabar.
+REP desaprom desachumb 	# desapromar → desachumbar.
+REP desapróm desachúmb 	# desapromar → desachumbar.
+REP descalific descualific 	# descalificar → descualificar.
+REP descalifíc descualifíc 	# descalificar → descualificar.
+REP desconxur esconxur	# desconxurar → esconxurar.
+REP desconxúr esconxúr 	# desconxurar → esconxurar.
+REP descorn escorn 	# descornar → escornar.
+REP descórn escórn 	# descornar → escornar.
+REP descubill desacubill 	# descubillar → desacubillar.
+REP descubíll desacubíll 	# descubillar → desacubillar.
+REP desembrull desenvurull 	# desembrullar → desenvurullar.
+REP desembrúll desenvurúll 	# desembrullar → desenvurullar.
+REP desliz escorr 	# deslizar → escorrer.
+REP deslíz escórr 	# deslizar → escorrer.
+REP desliza escorre 	# deslizar → escorrer.
+REP deslíza escórre 	# deslizar → escorrer.
+REP deslice escorra 	# deslizar → escorrer.
+REP deslíce escórra 	# deslizar → escorrer.
+REP desliza esvara 	# deslizar → esvarar.
+REP deslíza esvára 	# deslizar → esvarar.
+REP deslice esvare 	# deslizar → esvarar.
+REP deslíce esváre 	# deslizar → esvarar.
+REP deslumbr ceg 	# deslumbrar → cegar.
+REP deslúmbr ceg 	# deslumbrar → cegar.
+REP deslumbr cegu 	# deslumbrar → cegar.
+REP deslúmbr cégu 	# deslumbrar → cegar.
+REP desnuda espi 	# desnudar → espir.
+REP desnudá espí 	# desnudar → espir.
+REP desnud isp 		# desnudar → espir.
+REP desnúd ísp 		# desnudar → espir.
+REP desnude ispa 	# desnudar → espir.
+REP desnúde íspa 	# desnudar → espir.
+REP desnud denud 	# desnudar → denudar.
+REP desnúd denúd 	# desnudar → denudar.
+REP destroz esnaquiz 	# destrozar → esnaquizar.
+REP destróz esnaquíz 	# destrozar → esnaquizar.
+REP destroc esnaquic 	# destrozar → esnaquizar.
+REP destróc esnaquíc 	# destrozar → esnaquizar.
+REP desvae esvaece 	# desvaer → esvaecer.
+REP desvaé esvaéce 	# desvaer → esvaecer.
+REP desvai esvaez 	# desvaer → esvaecer.
+REP desvái esvaéz 	# desvaer → esvaecer.
+REP detenta dete 	# detentar → deter.
+REP deténta déte 	# detentar → deter.
+REP detente deteña 	# detentar → deter.
+REP deténte detéña 	# detentar → deter.
+REP detento deteño 	# detentar → deter.
+REP deténto detéño 	# detentar → deter.
+REP detentei detiven 	# detentar → deter.
+REP detentéi detíven 	# detentar → deter.
+REP detenta detive 	# detentar → deter.
+REP detentá detivé 	# detentar → deter.
+REP detentou detivo 	# detentar → deter.
+REP detentóu detívo 	# detentar → deter.
+REP detentab detiñ 	# detentar → deter.
+REP detentáb detíñ 	# detentar → deter.
+REP dice di 		# decir → dicir.
+REP disculp desculp 	# disculpar → desculpar.
+REP discúlp descúlp 	# disculpar → desculpar.
+REP discurr discorr 	# discurrir → discorrer.
+REP dismin dimin 	# disminuír → diminuír.
+REP dosier cartafol	# Erro común.
+REP dosier compilación	# Erro común.
+REP dosier informe	# Erro común («informe escrito» sería máis axeitado).
+REP e ei
+REP é ei
+REP é éi
+REP ec ei
+REP éc éi
+REP elixícheme elixíchesme	# Erro común.
+REP embe enve 		# embear → envear.
+REP embé envé 		# embear → envear.
+REP emborcall envorcall 	# emborcallar → envorcallar.
+REP emborcáll envorcáll 	# emborcallar → envorcallar.
+REP emborc envorc 	# emborcar → envorcar.
+REP embórc envórc 	# emborcar → envorcar.
+REP embrull envurull 	# embrullar → envurullar.
+REP embrúll envurúll 	# embrullar → envurullar.
+REP emburull envurull 	# emburullar → envurullar.
+REP emburúll envurúll 	# emburullar → envurullar.
+REP embuz emboz 	# embuzar → embozar.
+REP embúz embóz 	# embuzar → embozar.
+REP empol ampol 	# empolar → ampolar.
+REP empól ampól 	# empolar → ampolar.
+REP enemig agoni 	# enemigar → agoniar.
+REP enemig agoní 	# enemigar → agoniar.
+REP enemíg agoní 	# enemigar → agoniar.
+REP enemigu agoni 	# enemigar → agoniar.
+REP enemigu agoní 	# enemigar → agoniar.
+REP enemígu agoní 	# enemigar → agoniar.
+REP enfosc enfusc 	# enfoscar → enfuscar.
+REP enfósc enfúsc 	# enfoscar → enfuscar.
+REP enfrent enfront 	# enfrentar → enfrontar.
+REP enfrént enfrónt 	# enfrentar → enfrontar.
+REP enfr arrefr 	# enfriar → arrefriar.
+REP enfria arrefece 	# enfriar → arrefecer.
+REP enfriá arrefecé 	# enfriar → arrefecer.
+REP enfrí arrefez 	# enfriar → arrefecer.
+REP enfrí arreféz 	# enfriar → arrefecer.
+REP enfría arrefece 	# enfriar → arrefecer.
+REP enfría arreféce 	# enfriar → arrefecer.
+REP enfríe arrefeza 	# enfriar → arrefecer.
+REP enfríe arreféza 	# enfriar → arrefecer.
+REP engade engadi 	# engader → engadir.
+REP engadé engadí 	# engader → engadir.
+REP engran engren 	# engranar → engrenar.
+REP engrán engrén 	# engranar → engrenar.
+REP enox anox 		# enoxar → anoxar.
+REP enóx anóx 		# enoxar → anoxar.
+REP ensuxar lixar	# ensuxar → lixar.
+REP ensúx líx 		# ensuxar → lixar.
+REP ensux ensuci	# ensuxar → ensuciar.
+REP ensúx ensúci	# ensuxar → ensuciar.
+REP ensuxar luxar 	# ensuxar → luxar.
+REP ensúx lúx 		# ensuxar → luxar.
+REP entren adestr 	# entrenar → adestrar.
+REP entrén adéstr 	# entrenar → adestrar.
+REP enxabro enxabo 	# enxabroar → enxaboar.
+REP enxábro enxábo 	# enxabroar → enxaboar.
+REP erog errog 		# erogar → errogar.
+REP eróg erróg 		# erogar → errogar.
+REP escalon gradu 	# escalonar → graduar.
+REP escalón gradú 	# escalonar → graduar.
+REP escalon gradú 	# escalonar → graduar.
+REP espaci espaz 	# espaciar → espazar.
+REP espáci espaz 	# espaciar → espazar.
+REP espacie espace 	# espaciar → espazar.
+REP espácie espace 	# espaciar → espazar.
+REP esperre espirr 	# esperrear → espirrar.
+REP espérre espírr 	# esperrear → espirrar.
+REP espulg esburg 	# espulgar → esburgar.
+REP espúlg esbúrg 	# espulgar → esburgar.
+REP forne enforn 	# fornear → enfornar.
+REP forné enfórn 	# fornear → enfornar.
+REP frunce pregar	# fruncir → pregar.
+REP frunce engurra	# fruncir → engurrar.
+REP frúnce engúrra	# fruncir → engurrar.
+REP frunci engurra	# fruncir → engurrar.
+REP fruncí engurrab	# fruncir → engurrar.
+REP frunci engurraba	# fruncir → engurrar.
+REP fruncín engurrei	# fruncir → engurrar.
+REP fruncín engurréi	# fruncir → engurrar.
+REP fruncin engurrei	# fruncir → engurrar.
+REP fruncin engurrein 	# fruncir → engurrar.
+REP frunciu engurrou 	# fruncir → engurrar.
+REP frunciu engurróu 	# fruncir → engurrar.
+REP fruncíu engurróu	# fruncir → engurrar.
+REP frunz preg 		# fruncir → pregar.
+REP frúnz prég 		# fruncir → pregar.
+REP frunz engurr	# fruncir → engurrar.
+REP frúnz engúrr	# fruncir → engurrar.
+REP frunza pregue 	# fruncir → pregar.
+REP frúnza prégue 	# fruncir → pregar.
+REP frunza engurre 	# fruncir → engurrar.
+REP frúnza engúrre 	# fruncir → engurrar.
+REP frunzá engurré 	# fruncir → engurrar.
+REP fug fux 		# fugar → fuxir.
+REP fúg fóx 		# fugar → fuxir.
+REP fug fox 		# fugar → fuxir.
+REP fúg fóx 		# fugar → fuxir.
+REP fugue fuxa 		# fugar → fuxir.
+REP fúgue fúxa 		# fugar → fuxir.
+REP fugué fuxá 		# fugar → fuxir.
+REP fuga fuxi 		# fugar → fuxir.
+REP fugá fuxí 		# fugar → fuxir.
+REP fúga fúxe 		# fugar → fuxir.
+REP fuguei fuxín 	# fugar → fuxir.
+REP fuguei fuxin 	# fugar → fuxir.
+REP fuguéi fuxín 	# fugar → fuxir.
+REP fugou fuxiu 	# fugar → fuxir.
+REP fugóu fuxíu 	# fugar → fuxir.
+REP gave gabe 		# gavear → gabear.
+REP gavé gabé 		# gavear → gabear.
+REP gomit vomit 	# gomitar → vomitar.
+REP gomít vomít 	# gomitar → vomitar.
+REP gorgúll gurgúll 	# gorgullar → gurgullar.
+REP grab grav 		# grabar → gravar.
+REP gráb gráv 		# grabar → gravar.
+REP gran engrai 	# granar → engraiar.
+REP grán engrái 	# granar → engraiar.
+REP ie e		# Exemplo: miel → mel.
+REP ié é		# Exemplo: piénsao → pénsao.
+REP ig igu 		# igar → iguar.
+REP íg ígu 		# igar → iguar.
+REP ig igü 		# igar → iguar.
+REP íg ígü 		# igar → iguar.
+REP imb envi 		# imbar → enviar.
+REP imb enví 		# imbar → enviar.
+REP ímb enví 		# imbar → enviar.
+REP intrinc intric 	# intrincar → intricar.
+REP intrínc intríc 	# intrincar → intricar.
+REP inxer enxer 	# inxerir → enxerir.
+REP inxér enxér 	# inxerir → enxerir.
+REP inxert enxert 	# inxertar → enxertar.
+REP inxért enxért 	# inxertar → enxertar.
+REP is les		# Exemplo: cais → cales.
+REP laric latric 	# laricar → latricar.
+REP laríc latríc 	# laricar → latricar.
+REP les is		# Exemplo: casuales → casuais.
+REP ll x
+REP lonxan afastad	# lonxano → afastado.
+REP lonxano distante	# lonxano → distante.
+REP lonxanos distantes	# lonxano → distante.
+REP lonxana distante	# lonxano → distante.
+REP lonxanas distantes	# lonxano → distante.
+REP manose sob		# manosear → sobar.
+REP manosé sób 		# manosear → sobar.
+REP manose apalp 	# manosear → apalpar.
+REP manosé apálp 	# manosear → apalpar.
+REP mec mex 		# mecer → mexer.
+REP méc méx 		# mecer → mexer.
+REP ment ament 		# mentar → amentar.
+REP mént amént 		# mentar → amentar.
+REP merm mingu 		# mermar → minguar.
+REP mérm míngu 		# mermar → minguar.
+REP merm mingü 		# mermar → minguar.
+REP mérm míngü 		# mermar → minguar.
+REP mez mex 		# mecer → mexer.
+REP méz méx		# mecer → mexer.
+REP mixiric mexeric 	# mixiricar → mexericar.
+REP mixiríc mexeríc 	# mixiricar → mexericar.
+REP mordisc adent 	# mordiscar → adentar.
+REP mordísc adént 	# mordiscar → adentar.
+REP n nh
+REP nb mb		# Exemplo: anbiguo → ambiguo.
+REP noraboa parabén	# Erro común.
+REP np mp		# Exemplo: inportante → importante.
+REP o ou
+REP ó óu
+REP oc ou
+REP óc óu
+REP ol ul 		# oler → ulir.
+REP ól úl 		# oler → ulir.
+REP ole uli 		# oler → ulir.
+REP olé ulí 		# oler → ulir.
+REP olvida esquece 	# olvidar → esquecer.
+REP olvída esquéce 	# olvidar → esquecer.
+REP olvidá esquecé 	# olvidar → esquecer.
+REP olvidá esquecí 	# olvidar → esquecer.
+REP olvidab esquecí 	# olvidar → esquecer.
+REP olvidáb esquecí 	# olvidar → esquecer.
+REP olvidab esqueci 	# olvidar → esquecer.
+REP olvida esqueci 	# olvidar → esquecer.
+REP olvída esquéci 	# olvidar → esquecer.
+REP olvid esquez 	# olvidar → esquecer.
+REP olvíd esquéz 	# olvidar → esquecer.
+REP olvide esqueza 	# olvidar → esquecer.
+REP olvíde esquéza 	# olvidar → esquecer.
+REP olvidei esquecín 	# olvidar → esquecer.
+REP olvidei esquecín 	# olvidar → esquecer.
+REP olvidein esquecin 	# olvidar → esquecer.
+REP olvidéi esquecín 	# olvidar → esquecer.
+REP olvidou esqueceu 	# olvidar → esquecer.
+REP olvidóu esquecéu 	# olvidar → esquecer.
+REP pale padex 		# palear → padexar.
+REP palé padéx 		# palear → padexar.
+REP per pre
+REP perxudic prexudic 	# perxudicar → prexudicar.
+REP perxudíc prexudíc 	# perxudicar → prexudicar.
+REP prexudicios danos	# prexudiciosa → danosa.
+REP prexudicios daniñ	# prexudiciosa → daniña.
+REP promedio media	# Erro común.
+REP promedio medio	# Erro común.
+REP promedio termo	# Erro común.
+REP perxudiqu prexudic 	# perxudicar → prexudicar.
+REP perxudíqu prexudíc 	# perxudicar → prexudicar.
+REP perxudic dan 	# perxudicar → danar.
+REP perxudíc dán 	# perxudicar → danar.
+REP perxudiqu dan 	# perxudicar → danar.
+REP perxudíqu dán 	# perxudicar → danar.
+REP postr prostr 	# postrar → prostrar.
+REP póstr próstr 	# postrar → prostrar.
+REP postre sobremesa	# Erro común.
+REP pre per
+REP prend peñor 	# prendar → peñorar.
+REP prénd peñór 	# prendar → peñorar.
+REP presion prem 	# presionar → premer.
+REP presión prém 	# presionar → premer.
+REP presiona preme 	# presionar → premer.
+REP presióna préme 	# presionar → premer.
+REP presioná premé 	# presionar → premer.
+REP presionei premín 	# presionar → premer.
+REP presionei premin	# presionar → premer.
+REP presionéi premín	# presionar → premer.
+REP presionein premin	# presionar → premer.
+REP presiona premi	# presionar → premer.
+REP presióná prémí 	# presionar → premer.
+REP presionou premeu	# presionar → premer.
+REP presionóu preméu 	# presionar → premer.
+REP presione prema	# presionar → premer.
+REP presióne préma 	# presionar → premer.
+REP prorrate rate 	# prorratear → ratear.
+REP prorraté raté 	# prorratear → ratear.
+REP quep caib
+REP quép cáib
+REP reche reench 	# rechear → reencher.
+REP reché reénch	# rechear → reencher.
+REP rechea reenche 	# rechear → reencher.
+REP rechéa reénche 	# rechear → reencher.
+REP recheá reenché 	# rechear → reencher.
+REP recheei reenchín 	# rechear → reencher.
+REP recheei reenchin 	# rechear → reencher.
+REP recheei reenchín 	# rechear → reencher.
+REP recheein reenchin 	# rechear → reencher.
+REP rechea reenchi 	# rechear → reencher.
+REP recheá reenchí 	# rechear → reencher.
+REP recheou reencheu 	# rechear → reencher.
+REP recheóu reenchéu 	# rechear → reencher.
+REP rechee reencha	# rechear → reencher.
+REP rechée reéncha 	# rechear → reencher.
+REP recrudesce recrua	# recrudescer → recruar.
+REP recrudésce recrúa	# recrudescer → recruar.
+REP recrudesc recru	# recrudescer → recruar.
+REP recrudésc recrú	# recrudescer → recruar.
+REP recrudesza recrúe	# recrudescer → recruar.
+REP recrudésza recrúe 	# recrudescer → recruar.
+REP reempraz substitú	# reemprazar → substituír.
+REP reempráz substitú 	# reemprazar → substituír.
+REP reempraza substitúe	# reemprazar → substituír.
+REP reempráza substitúe	# reemprazar → substituír.
+REP reempráza substituí	# reemprazar → substituír.
+REP reemprace substitúa	# reemprazar → substituír.
+REP reempráce substitúa	# reemprazar → substituír.
+REP reemprace substitua	# reemprazar → substituír.
+REP reempracé substituá	# reemprazar → substituír.
+REP reempracei substituín	# reemprazar → substituír.
+REP reempracéi substitúa	# reemprazar → substituír.
+REP reempracein substituín	# reemprazar → substituír.
+REP reemprazou substituíu	# reemprazar → substituír.
+REP reemprazóu substituíu	# reemprazar → substituír.
+REP reflexa reflicte 	# reflexar → reflectir.
+REP refléxa reflícte	# reflexar → reflectir.
+REP reflex reflict	# reflexar → reflectir.
+REP refléx reflíct 	# reflexar → reflectir.
+REP reflexe reflicta 	# reflexar → reflectir.
+REP refléxe reflícta 	# reflexar → reflectir.
+REP reflexei refllectín	# reflexar → reflectir.
+REP reflexei refllectin	# reflexar → reflectir.
+REP reflexéi refllectín	# reflexar → reflectir.
+REP reflexein refllectin	# reflexar → reflectir.
+REP reflexa refllecti	# reflexar → reflectir.
+REP reflexá refllectí	# reflexar → reflectir.
+REP reflexou refllectiu	# reflexar → reflectir.
+REP reflexóu refllectíu	# reflexar → reflectir.
+REP refri arrefri 	# refriar → arrefriar.
+REP refrí arrefrí	# refriar → arrefriar.
+REP resfri arrefri	# refriar → arrefriar.
+REP resfrí arrefrí	# refriar → arrefriar.
+REP retras atras 	# retrasar → atrasar.
+REP retrás atrás 	# retrasar → atrasar.
+REP sendero carreiro	# Erro común.
+REP sep saib
+REP sép sáib
+REP silla cadeira	# Castelanismo.
+REP soborn suborn 	# sobornar → subornar.
+REP sobórn subórn 	# sobornar → subornar.
+REP sofoc sufoc 	# sofocar → sufocar.
+REP sofóc sufóc 	# sofocar → sufocar.
+REP subast pox 		# subastar → poxar.
+REP subást póx 		# subastar → poxar.
+REP substr subtr 	# substraer → subtraer.
+REP sumerx somerx 	# sumerxir → somerxer.
+REP sumérx somérx	# sumerxir → somerxer.
+REP sumerxi somerxe 	# sumerxir → somerxer.
+REP sumerxí somerxé	# sumerxir → somerxer.
+REP suministr subministr	# suministrar → subministrar.
+REP suminístr subminístr 	# suministrar → subministrar.
+REP tachon chatol 	# tachonar → chatolar.
+REP tachón chatól 	# tachonar → chatolar.
+REP tambale cambale 	# tambalear → cambalear.
+REP tambalé cambalé 	# tambalear → cambalear.
+REP tante tente 	# tantear → tentear.
+REP tanté tenté 	# tantear → tentear.
+REP terci terz 		# terciar → terzar.
+REP térci térz 		# terciar → terzar.
+REP terci terce 	# terciar → terzar.
+REP térci térce 	# terciar → terzar.
+REP tim estaf 		# timar → estafar.
+REP tím estáf		# timar → estafar.
+REP tiz atiz 		# tizar → atizar.
+REP tíz atíz 		# tizar → atizar.
+REP tiz atic 		# tizar → atizar.
+REP tíz atíc 		# tizar → atizar.
+REP transtorn trastorn 	# transtornar → trastornar.
+REP transtórn trastórn 	# transtornar → trastornar.
+REP triz trinz 		# trizar → trinzar.
+REP tríz trínz 		# trizar → trinzar.
+REP tric trinc 		# trizar → trinzar.
+REP tríc trínc 		# trizar → trinzar.
+REP u oi
+REP ú ói
+REP ua a		# Exemplo: guarda → garda.
+REP uch oit
+REP úch óit
+REP ue o		# Exemplo: puesto → posto.
+REP ué ó		# Exemplo: cuéntallo → cóntallo.
+REP uniformiz uniform	# uniformizar → uniformar.
+REP uniformíz unifórm	# uniformizar → uniformar.
+REP uniformic uniform	# uniformizar → uniformar.
+REP uniformíc unifórm 	# uniformizar → uniformar.
+REP x ll		# Exemplo: parexa → parella.
+REP y ll		# Na maioría dos casos tratarase dun castelanismo.
+REP z ci		# Exemplo: silenzo → silencio.
+REP zamp chap 		# zampar → chapar.
+REP zámp cháp 		# zampar → chapar.
+REP zamp chimp 		# zampar → chimpar.
+REP zámp chímp 		# zampar → chimpar.
